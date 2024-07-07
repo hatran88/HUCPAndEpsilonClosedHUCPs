@@ -1,0 +1,9 @@
+The number of closed prevalent pattern is: 10
+Execution time for materizaling starneighbors is: 0.001 s.
+Execution time for generating candidates: 0s.
+Execution time for finding clique instances: 0s.
+Execution time for filtering prevalent co-locations: 0s.
+Time taken by the program is (No neighboring) : 0 s.
+Time taken by the program is (all) : 0.001 s.
+Memory usage: 2640(kB)
+Peak memory usage: 2644(kB)

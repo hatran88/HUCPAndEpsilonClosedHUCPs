@@ -1,0 +1,43 @@
+All PCPs: 11
+All prevalent patterns: 
+ABCD : 0.37
+AC : 0.78
+ACD : 0.63
+ABC : 0.482
+ABD : 0.536
+AB : 0.627
+BCD : 0.409
+AD : 0.84
+BC : 0.527
+BD : 0.536
+CD : 0.733
+
+Closed PCPs: 10
+Delta closed PCPs: 8
+Time for meterializing neighbors: 0 s.
+Time for finding maximal cliques: 0 s.
+Time for constructingco-location hashmap: 0 s.
+Time for filtering prevalent patterns: 0.001 s.
+Execution time (no materialize neighbors) is : 0.001 s.
+Time taken by the program is : 0.001 s.
+Memory usage: 2636(kB)
+Peak memory usage: 2(kB)
+The maximal size of patterns is: 4
+AD : 0.84
+ AB : 0.627
+ CD : 0.733
+ AC : 0.78
+ ABD : 0.536
+ ABC : 0.482
+ ACD : 0.63
+ ABCD : 0.37
+ 
+Patterns are classified by sizes: 
+2 : 4
+3 : 3
+4 : 1
+
+The number of meta patterns: 8
+The average error: 0.00763637
+The compression rate of closed: 9.09091
+The compression rate of delta-closed: 27.2727
